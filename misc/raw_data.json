@@ -1,0 +1,59 @@
+{
+  "Beverages": {
+    "Rain Forest still water": 2,
+    "San Pellegrino sparkling water": 2,
+    "San Pellegrino Aranciata": 1,
+    "San Pellegrino Limonatta": 1,
+    "Coca Cola Regular": 2,
+    "Red Bull": 1,
+    "Sprite": 1,
+    "Fanta": 1,
+    "Agua Fever Tree Mediterranean Tonic": 1,
+    "Agua Fever Tree Premium Indian": 1,
+    "Otro, Golden Berry sparkling seltzer": 1
+  },
+  "Beer & Wine": {
+    "Zarpezul - Premium Lager (American Style)": 1,
+    "Corona Extra": 1,
+    "Duckhorn Sauvignon Blanc, Napa Valley, USA": 1,
+    "Chianti Ruffino DOCG": 1,
+    "Moët & Chandon Brut Impérial, Champagne": 1,
+    "Moët & Chandon Brut Impérial Rosé, Champagne": 1
+  },
+  "Liquors": {
+    "Flor de Caña 12 rum": 1,
+    "Grey Goose vodka": 1,
+    "Tito's vodka": 1,
+    "Herradura tequila": 1,
+    "Jack Daniel's whiskey": 1,
+    "Glenmorangie 10 whisky": 1,
+    "Café cold brew, Verolls": 1
+  },
+  "Snacks": {
+    "M&M's": 1,
+    "Chocolate Kit Kat": 1,
+    "Chocolate Cranberry Granuts": 1,
+    "Chocolate Toasted Almonds Granuts": 1,
+    "Natural Bites Omega SuperMix": 1,
+    "Dark Chocolate bar with almonds Nahua": 1,
+    "Dark Chocolate bar with orange Nahua": 1,
+    "Platanitos Chip": 1,
+    "Yuquitas Tomate Chip": 1,
+    "Cricket Protein Peanut butter": 1,
+    "Nature Valley Granola Bar": 1,
+    "Potato Chips": 1,
+    "Jungle Cookies": 1,
+    "Sea Salt Popcorn": 1
+  },
+  "Set Coffee & Tea": {
+    "Café Britt Intenso": 4,
+    "Café Britt Montecielo": 2,
+    "Te Manza Te Negro": 2,
+    "Te Manza Te Verde": 2,
+    "Te Manza Te Manzanilla": 2,
+    "Azucar Splenda": 6,
+    "Azucar Regular": 6,
+    "Azucar Moreno": 6,
+    "Crema": 6
+  }
+}
